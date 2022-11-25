@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="butonBoyutu">81dp</dimen>
+    <dimen name="sifirBoyutu">172dp</dimen>
+    <dimen name="yaziBoutu">30sp</dimen>
+    <dimen name="marginBoyutu">5dp</dimen>
+</resources>
